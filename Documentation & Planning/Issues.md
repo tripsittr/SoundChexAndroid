@@ -21,6 +21,8 @@ _(none — scaffold only)_
 | A-07 | Admin panel | Dashboard, item edit, profile management, scan — parity with iOS. |
 | A-08 | TV (10-foot) UI | Compose for TV / Leanback: D-pad focus, rows/cards, now-playing, TV-safe areas. Shares the core with the handset UI. |
 | A-09 | Distribution | Play Store (phone/tablet/Android TV/Google TV) + Amazon Appstore (Fire TV) + sideload. Signing, listings, per-store form-factor targeting. |
+| A-10 | Android Auto | Your library on the car dashboard via Android Auto's media interface (`MediaBrowserService` / Media3 `MediaLibraryService` browse tree + playback). A must-have; the Media3 playback core (A-04) is the foundation. |
+| A-11 | Chromecast + AirPlay (sender) | Cast the current playback OUT to a Chromecast / Google TV (Google Cast SDK sender + a media receiver) and to AirPlay devices where reachable. A must-have. |
 
 ## Deferred
 
