@@ -1,0 +1,11 @@
+# OS / editor
+.DS_Store
+*.swp
+.idea/
+.vscode/
+
+# Build output (filled in when the toolchain is set up)
+build/
+dist/
+out/
+*.log
