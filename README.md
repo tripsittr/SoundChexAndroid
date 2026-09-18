@@ -32,6 +32,9 @@ and [Roadmap.md](Documentation%20&%20Planning/Roadmap.md). No app code yet.
 
 ## Licence
 
-**AGPL-3.0-or-later** — see [LICENSE](LICENSE). All SoundChex platforms share
-this licence; a modified, network-hosted build must offer its users the
-corresponding source (AGPL §13).
+**Dual-licensed** — **AGPL-3.0-or-later** by default (see [LICENSE](LICENSE)), or
+a **commercial licence** for those who can't/won't comply with the AGPL. Full
+terms, the contributor agreement, and the commercial option live in the main
+repo: [LICENSING.md](https://github.com/tripsittr/SoundChex/blob/main/LICENSING.md)
+(contact `licensing@soundchex.app`). AGPL §13: a modified, network-hosted build
+must offer its users the corresponding source.
